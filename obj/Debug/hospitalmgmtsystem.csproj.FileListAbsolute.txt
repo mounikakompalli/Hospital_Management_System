@@ -1,0 +1,12 @@
+c:\users\mkompall\documents\visual studio 2013\Projects\hospitalmgmtsystem\hospitalmgmtsystem\bin\hospitalmgmtsystem.dll.config
+c:\users\mkompall\documents\visual studio 2013\Projects\hospitalmgmtsystem\hospitalmgmtsystem\bin\hospitalmgmtsystem.dll
+c:\users\mkompall\documents\visual studio 2013\Projects\hospitalmgmtsystem\hospitalmgmtsystem\bin\hospitalmgmtsystem.pdb
+c:\users\mkompall\documents\visual studio 2013\Projects\hospitalmgmtsystem\hospitalmgmtsystem\obj\Debug\hospitalmgmtsystem.csprojResolveAssemblyReference.cache
+c:\users\mkompall\documents\visual studio 2013\Projects\hospitalmgmtsystem\hospitalmgmtsystem\obj\Debug\hospitalmgmtsystem.dll
+c:\users\mkompall\documents\visual studio 2013\Projects\hospitalmgmtsystem\hospitalmgmtsystem\obj\Debug\hospitalmgmtsystem.pdb
+C:\Users\Manoj\Downloads\hospitalmgmtsystem (2)\hospitalmgmtsystem\bin\hospitalmgmtsystem.dll.config
+C:\Users\Manoj\Downloads\hospitalmgmtsystem (2)\hospitalmgmtsystem\bin\hospitalmgmtsystem.dll
+C:\Users\Manoj\Downloads\hospitalmgmtsystem (2)\hospitalmgmtsystem\bin\hospitalmgmtsystem.pdb
+C:\Users\Manoj\Downloads\hospitalmgmtsystem (2)\hospitalmgmtsystem\obj\Debug\hospitalmgmtsystem.csprojResolveAssemblyReference.cache
+C:\Users\Manoj\Downloads\hospitalmgmtsystem (2)\hospitalmgmtsystem\obj\Debug\hospitalmgmtsystem.dll
+C:\Users\Manoj\Downloads\hospitalmgmtsystem (2)\hospitalmgmtsystem\obj\Debug\hospitalmgmtsystem.pdb
